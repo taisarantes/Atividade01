@@ -1,0 +1,1 @@
+SELECT * FROM tb_Colaboradores WHERE salario > 2000;
